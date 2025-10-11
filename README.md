@@ -1,10 +1,14 @@
-### Hi there 👋
+# List of Projects / things I want to do
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hzs0084&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+1. Open-Source Projects to contribute to
+2. GitHub Actions Workflow
+3. Gamify my EHC/Cybersecurity Resources
+4. VR Project of Stepping in the code to debug
+5. VR Project of a time line, imagine you could select the era, select the time and you can explore that area in that time period
+6. My own rubbery ducky
+7. Keylogger
+8. Cybersecurity Tools/Projects
+9. Malware behavior of Raspberry Pi
+10. Document HTB, TryHackMe
+11. Build a Methodolody, notes for attacking a machine, and use it for OSCP
+12. Write Malware in GO
