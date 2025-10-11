@@ -12,3 +12,4 @@
 10. Document HTB, TryHackMe
 11. Build a Methodolody, notes for attacking a machine, and use it for OSCP
 12. Write Malware in GO
+13. A bot that grabs Hacker News from different outlets, i wonder if I can get something from the Dark Web as well. Curated places, like - X, Wired, reputable sources
